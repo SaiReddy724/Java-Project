@@ -61,5 +61,6 @@ public class InterfaceEx {
     it.breake(); 
     Bike.num();
 
+    
 }
 }
